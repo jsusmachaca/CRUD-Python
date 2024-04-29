@@ -1,4 +1,4 @@
-#!/home/jisas/Desktop/Projects/Python/CrudTK/venv/bin/python
+#!/home/jsus/Desktop/Projects/Python/CRUD-Python/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
